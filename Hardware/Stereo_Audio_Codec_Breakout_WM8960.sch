@@ -25501,7 +25501,7 @@ to disable power LED</text>
 <wire x1="144.78" y1="81.28" x2="144.78" y2="138.176" width="0.2032" layer="97" style="shortdash"/>
 <text x="185.42" y="83.82" size="1.778" layer="97" font="vector" rot="MR0">Low-pass filters
 100ohm &amp; 47nF = 33KHz</text>
-<text x="5.08" y="167.64" size="1.27" layer="97">Supply Voltage Ranges
+<text x="5.08" y="167.64" size="1.27" layer="97" font="vector">Supply Voltage Ranges
 DCVDD: 1.7-3.6V
 DBVDD: 1.7-3.6V
 AVDD: 2.7-3.6V

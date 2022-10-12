@@ -9,6 +9,8 @@
 <grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.0001" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="yes" active="yes"/>
+<layer number="2" name="Route2" color="11" fill="6" visible="no" active="yes"/>
+<layer number="15" name="Route15" color="23" fill="5" visible="no" active="yes"/>
 <layer number="16" name="Bottom" color="1" fill="1" visible="yes" active="yes"/>
 <layer number="17" name="Pads" color="2" fill="1" visible="yes" active="yes"/>
 <layer number="18" name="Vias" color="2" fill="1" visible="yes" active="yes"/>
@@ -52,7 +54,6 @@
 <layer number="94" name="Symbols" color="4" fill="1" visible="no" active="no"/>
 <layer number="95" name="Names" color="7" fill="1" visible="no" active="no"/>
 <layer number="96" name="Values" color="7" fill="1" visible="no" active="no"/>
-<layer number="2" name="Route2" color="11" fill="6" visible="no" active="yes"/>
 <layer number="3" name="Route3" color="17" fill="1" visible="no" active="no"/>
 <layer number="4" name="Route4" color="18" fill="1" visible="no" active="no"/>
 <layer number="5" name="Route5" color="19" fill="1" visible="no" active="no"/>
@@ -65,7 +66,6 @@
 <layer number="12" name="Route12" color="20" fill="1" visible="no" active="no"/>
 <layer number="13" name="Route13" color="21" fill="1" visible="no" active="no"/>
 <layer number="14" name="Route14" color="22" fill="1" visible="no" active="no"/>
-<layer number="15" name="Route15" color="23" fill="5" visible="no" active="yes"/>
 <layer number="53" name="tGND_GNDA" color="7" fill="9" visible="no" active="no"/>
 <layer number="54" name="bGND_GNDA" color="1" fill="9" visible="no" active="no"/>
 <layer number="56" name="wert" color="7" fill="1" visible="no" active="no"/>
@@ -14819,23 +14819,23 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <contactref element="L2" pad="2"/>
 <contactref element="C16" pad="1"/>
 <contactref element="J5" pad="4"/>
-<wire x1="21.01088125" y1="8.89" x2="24.13" y2="8.89" width="0.508" layer="1"/>
+<wire x1="21.51888125" y1="8.89" x2="24.13" y2="8.89" width="0.508" layer="1"/>
 <wire x1="18.29308125" y1="15.26201875" x2="18.29308125" y2="14.081759375" width="0.508" layer="1"/>
 <wire x1="18.4573" y1="13.917540625" x2="18.4573" y2="12.651740625" width="0.508" layer="1"/>
 <wire x1="18.29308125" y1="14.081759375" x2="18.4573" y2="13.917540625" width="0.508" layer="1"/>
-<wire x1="18.4573" y1="12.651740625" x2="18.4573" y2="11.44358125" width="0.508" layer="1"/>
-<wire x1="18.4573" y1="11.44358125" x2="21.01088125" y2="8.89" width="0.508" layer="1"/>
+<wire x1="18.4573" y1="12.651740625" x2="18.4573" y2="11.95158125" width="0.508" layer="1"/>
+<wire x1="18.4573" y1="11.95158125" x2="21.51888125" y2="8.89" width="0.508" layer="1"/>
 </signal>
 <signal name="SPK_LN">
 <contactref element="L1" pad="2"/>
 <contactref element="C15" pad="1"/>
 <contactref element="J5" pad="3"/>
-<wire x1="21.535" y1="6.35" x2="24.13" y2="6.35" width="0.508" layer="1"/>
+<wire x1="22.805" y1="6.35" x2="24.13" y2="6.35" width="0.508" layer="1"/>
 <wire x1="16.6243" y1="15.26201875" x2="16.6243" y2="14.6812" width="0.508" layer="1"/>
 <wire x1="17.145878125" y1="14.159621875" x2="17.145878125" y2="13.515340625" width="0.508" layer="1"/>
 <wire x1="16.6243" y1="14.6812" x2="17.145878125" y2="14.159621875" width="0.508" layer="1"/>
-<wire x1="17.145878125" y1="13.515340625" x2="17.145878125" y2="10.739121875" width="0.508" layer="1"/>
-<wire x1="17.145878125" y1="10.739121875" x2="21.535" y2="6.35" width="0.508" layer="1"/>
+<wire x1="17.145878125" y1="13.515340625" x2="17.145878125" y2="12.009121875" width="0.508" layer="1"/>
+<wire x1="17.145878125" y1="12.009121875" x2="22.805" y2="6.35" width="0.508" layer="1"/>
 </signal>
 <signal name="N$8">
 <contactref element="U4" pad="7"/>
@@ -14924,9 +14924,9 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <signal name="RINPUT3">
 <contactref element="R9" pad="1"/>
 <contactref element="J5" pad="15"/>
-<wire x1="24.13" y1="36.83" x2="23.0124" y2="36.83" width="0.2032" layer="1"/>
-<wire x1="23.0124" y1="36.83" x2="20.3962" y2="39.4462" width="0.2032" layer="1"/>
-<wire x1="20.3962" y1="39.4462" x2="12.3825" y2="39.4462" width="0.2032" layer="1"/>
+<wire x1="24.13" y1="36.83" x2="24.112221875" y2="36.83" width="0.2032" layer="1"/>
+<wire x1="24.112221875" y1="36.83" x2="21.496021875" y2="39.4462" width="0.2032" layer="1"/>
+<wire x1="21.496021875" y1="39.4462" x2="12.3825" y2="39.4462" width="0.2032" layer="1"/>
 <wire x1="12.3825" y1="39.4462" x2="9.2075" y2="36.2712" width="0.2032" layer="1"/>
 <wire x1="9.2075" y1="32.0087" x2="8.5725" y2="31.3737" width="0.2032" layer="1"/>
 <wire x1="8.5725" y1="31.3737" x2="8.5725" y2="31.2975" width="0.2032" layer="1"/>
@@ -14945,11 +14945,11 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <signal name="LINPUT3">
 <contactref element="R1" pad="1"/>
 <contactref element="J5" pad="10"/>
-<wire x1="24.13" y1="24.13" x2="22.5425" y2="24.13" width="0.2032" layer="1"/>
-<wire x1="22.5425" y1="24.13" x2="18.3388" y2="28.3337" width="0.2032" layer="1"/>
+<wire x1="24.13" y1="24.13" x2="24.13" y2="24.1427" width="0.2032" layer="1"/>
+<wire x1="24.13" y1="24.1427" x2="18.3388" y2="29.9339" width="0.2032" layer="1"/>
 <wire x1="17.7499" y1="31.2975" x2="16.8275" y2="31.2975" width="0.2032" layer="1"/>
 <wire x1="18.3388" y1="30.7086" x2="17.7499" y2="31.2975" width="0.2032" layer="1"/>
-<wire x1="18.3388" y1="28.3337" x2="18.3388" y2="30.7086" width="0.2032" layer="1"/>
+<wire x1="18.3388" y1="29.9339" x2="18.3388" y2="30.7086" width="0.2032" layer="1"/>
 </signal>
 <signal name="LINPUT2">
 <contactref element="R6" pad="1"/>
@@ -15201,12 +15201,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <contactref element="C29" pad="2"/>
 <contactref element="C28" pad="2"/>
 <contactref element="C27" pad="2"/>
-<polygon width="0.2032" layer="1" isolate="0.1778">
-<vertex x="0" y="0"/>
-<vertex x="0" y="40.64"/>
-<vertex x="25.4" y="40.64"/>
-<vertex x="25.4" y="0"/>
-</polygon>
 <polygon width="0.2032" layer="16" isolate="0.1778">
 <vertex x="0" y="0"/>
 <vertex x="0" y="40.64"/>
@@ -15235,27 +15229,19 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <via x="11.7475" y="34.6075" extent="1-16" drill="0.381"/>
 <via x="10.16" y="34.6075" extent="1-16" drill="0.381"/>
 <via x="8.5725" y="34.6075" extent="1-16" drill="0.381"/>
-<via x="24.838659375" y="30.48" extent="1-16" drill="0.381"/>
-<via x="24.825959375" y="33.0301625" extent="1-16" drill="0.381"/>
-<via x="24.8031" y="35.5498375" extent="1-16" drill="0.381"/>
-<via x="24.80818125" y="27.93491875" extent="1-16" drill="0.381"/>
-<via x="24.818340625" y="25.40761875" extent="1-16" drill="0.381"/>
 <via x="12.545059375" y="18.729959375" extent="1-16" drill="0.381"/>
-<via x="12.176759375" y="12.5069625" extent="1-16" drill="0.381"/>
 <via x="15.9004" y="21.9583" extent="1-16" drill="0.381"/>
 <via x="15.1638" y="19.7231" extent="1-16" drill="0.381"/>
 <via x="9.2100375" y="24.124921875" extent="1-16" drill="0.381"/>
-<via x="16.7894" y="26.0477" extent="1-16" drill="0.381"/>
-<via x="18.5674" y="24.9047" extent="1-16" drill="0.381"/>
-<via x="18.91791875" y="19.1516" extent="1-16" drill="0.381"/>
+<via x="16.79448125" y="25.994359375" extent="1-16" drill="0.381"/>
+<via x="18.56231875" y="24.970740625" extent="1-16" drill="0.381"/>
+<via x="19.618959375" y="20.2920625" extent="1-16" drill="0.381"/>
 <wire x1="18.17331875" y1="21.6281" x2="18.17331875" y2="21.2115375" width="0.2032" layer="1"/>
 <wire x1="18.530940625" y1="20.853915625" x2="18.17331875" y2="21.2115375" width="0.2032" layer="1"/>
 <wire x1="18.530940625" y1="20.853915625" x2="18.530940625" y2="20.28698125" width="0.2032" layer="1"/>
-<via x="16.2433" y="11.53921875" extent="1-16" drill="0.381"/>
 <via x="20.8915" y="15.1257" extent="1-16" drill="0.381"/>
-<via x="13.97" y="11.80338125" extent="1-16" drill="0.381"/>
-<via x="4.846321875" y="7.846059375" extent="1-16" drill="0.381"/>
-<via x="11.666221875" y="6.9977" extent="1-16" drill="0.381"/>
+<via x="4.93014375" y="7.858759375" extent="1-16" drill="0.381"/>
+<via x="12.626340625" y="7.0993" extent="1-16" drill="0.381"/>
 <via x="12.7" y="30.2006" extent="1-16" drill="0.381"/>
 <via x="17.399" y="28.067" extent="1-16" drill="0.381"/>
 <contactref element="R5" pad="1"/>
@@ -15272,7 +15258,7 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <wire x1="10.4" y1="23.975" x2="10.95" y2="23.975" width="0.2032" layer="1"/>
 <wire x1="10.95" y1="23.975" x2="11.1506" y2="23.7744" width="0.2032" layer="1"/>
 <via x="8.8519" y="6.0071" extent="1-16" drill="0.381"/>
-<via x="19.220178125" y="13.9090375" extent="1-16" drill="0.381"/>
+<via x="20.56891875" y="12.656815625" extent="1-16" drill="0.381"/>
 <contactref element="J4" pad="2"/>
 <via x="18.933159375" y="40.040559375" extent="1-16" drill="0.381"/>
 <via x="14.8463" y="40.060878125" extent="1-16" drill="0.381"/>
@@ -15288,28 +15274,111 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <via x="5.491478125" y="15.214596875" extent="1-16" drill="0.381"/>
 <via x="8.3337375" y="15.12315625" extent="1-16" drill="0.381"/>
 <via x="7.650478125" y="12.5247375" extent="1-16" drill="0.381"/>
-<via x="15.80641875" y="14.432278125" extent="1-16" drill="0.381"/>
-<via x="6.515096875" y="21.5290375" extent="1-16" drill="0.381"/>
+<via x="15.98421875" y="12.4358375" extent="1-16" drill="0.381"/>
+<via x="6.52271875" y="22.550115625" extent="1-16" drill="0.381"/>
 <via x="7.9730625" y="25.466040625" extent="1-16" drill="0.381"/>
 <via x="5.986778125" y="27.7495" extent="1-16" drill="0.381"/>
-<via x="22.3266" y="7.566659375" extent="1-16" drill="0.381"/>
-<via x="17.99081875" y="10.883896875" extent="1-16" drill="0.381"/>
-<via x="24.8005625" y="20.325078125" extent="1-16" drill="0.381"/>
-<via x="11.0109" y="10.57148125" extent="1-16" drill="0.381"/>
 <via x="17.213578125" y="18.0467" extent="1-16" drill="0.381"/>
-<via x="19.410678125" y="4.747259375" extent="1-16" drill="0.381"/>
-<via x="16.8656" y="7.388859375" extent="1-16" drill="0.381"/>
 <via x="22.8879375" y="9.9822" extent="1-16" drill="0.381"/>
 <via x="9.149078125" y="7.0612" extent="1-16" drill="0.381"/>
 <via x="9.161778125" y="8.773159375" extent="1-16" drill="0.381"/>
+<via x="21.709378125" y="2.519678125" extent="1-16" drill="0.381"/>
+<wire x1="20.82" y1="2.54" x2="21.68905625" y2="2.54" width="0.2032" layer="1"/>
+<wire x1="21.68905625" y1="2.54" x2="21.709378125" y2="2.519678125" width="0.2032" layer="1"/>
+<wire x1="8.5725" y1="33.52" x2="8.5725" y2="34.6075" width="0.2032" layer="1"/>
+<wire x1="10.16" y1="33.52" x2="10.16" y2="34.6075" width="0.2032" layer="1"/>
+<wire x1="11.7475" y1="33.52" x2="11.7475" y2="34.6075" width="0.2032" layer="1"/>
+<wire x1="13.6525" y1="33.52" x2="13.6525" y2="34.6075" width="0.2032" layer="1"/>
+<wire x1="15.24" y1="33.52" x2="15.24" y2="34.6075" width="0.2032" layer="1"/>
+<wire x1="16.8275" y1="33.52" x2="16.8275" y2="34.6075" width="0.2032" layer="1"/>
+<wire x1="10.4" y1="23.975" x2="9.867959375" y2="23.975" width="0.2032" layer="1"/>
+<wire x1="9.867959375" y1="23.975" x2="9.7180375" y2="24.124921875" width="0.2032" layer="1"/>
+<wire x1="9.7180375" y1="24.124921875" x2="9.2100375" y2="24.124921875" width="0.2032" layer="1"/>
+<wire x1="9.574871875" y1="24.8449" x2="9.2100375" y2="24.480065625" width="0.2032" layer="1"/>
+<wire x1="9.2100375" y1="24.480065625" x2="9.2100375" y2="24.124921875" width="0.2032" layer="1"/>
+<wire x1="8.451759375" y1="24.556615625" x2="9.1334875" y2="24.556615625" width="0.2032" layer="1"/>
+<wire x1="9.1334875" y1="24.556615625" x2="9.2100375" y2="24.480065625" width="0.2032" layer="1"/>
+<wire x1="8.83890625" y1="25.65924375" x2="9.574871875" y2="24.923278125" width="0.2032" layer="1"/>
+<wire x1="9.574871875" y1="24.923278125" x2="9.574871875" y2="24.8449" width="0.2032" layer="1"/>
+<wire x1="8.83890625" y1="25.65924375" x2="8.451759375" y2="25.272096875" width="0.2032" layer="1"/>
+<wire x1="8.451759375" y1="25.272096875" x2="8.451759375" y2="24.556615625" width="0.2032" layer="1"/>
+<wire x1="7.9730625" y1="25.466040625" x2="8.257815625" y2="25.466040625" width="0.2032" layer="1"/>
+<wire x1="8.257815625" y1="25.466040625" x2="8.451759375" y2="25.272096875" width="0.2032" layer="1"/>
+<via x="5.344159375" y="25.803859375" extent="1-16" drill="0.381"/>
+<wire x1="6.1032" y1="25.8017" x2="5.34631875" y2="25.8017" width="0.2032" layer="1"/>
+<wire x1="5.34631875" y1="25.8017" x2="5.344159375" y2="25.803859375" width="0.2032" layer="1"/>
+<wire x1="15.869" y1="25.9871" x2="16.787221875" y2="25.9871" width="0.2032" layer="1"/>
+<wire x1="16.787221875" y1="25.9871" x2="16.79448125" y2="25.994359375" width="0.2032" layer="1"/>
+<wire x1="17.645" y1="24.9682" x2="18.559778125" y2="24.9682" width="0.2032" layer="1"/>
+<wire x1="18.559778125" y1="24.9682" x2="18.56231875" y2="24.970740625" width="0.2032" layer="1"/>
+<wire x1="5.7183" y1="22.5585" x2="6.514334375" y2="22.5585" width="0.2032" layer="1"/>
+<wire x1="6.514334375" y1="22.5585" x2="6.52271875" y2="22.550115625" width="0.2032" layer="1"/>
+<wire x1="19.6173" y1="12.651740625" x2="19.622375" y2="12.656815625" width="0.2032" layer="1"/>
+<wire x1="19.622375" y1="12.656815625" x2="20.56891875" y2="12.656815625" width="0.2032" layer="1"/>
+<wire x1="15.985878125" y1="13.515340625" x2="15.985878125" y2="12.437496875" width="0.2032" layer="1"/>
+<wire x1="15.985878125" y1="12.437496875" x2="15.98421875" y2="12.4358375" width="0.2032" layer="1"/>
+<via x="12.204696875" y="14.467840625" extent="1-16" drill="0.381"/>
+<wire x1="13.51191875" y1="13.517878125" x2="12.180175" y2="13.517878125" width="0.2032" layer="1"/>
+<wire x1="12.180175" y1="13.517878125" x2="12.1751" y2="13.512803125" width="0.2032" layer="1"/>
+<wire x1="12.1751" y1="13.512803125" x2="12.204696875" y2="13.5424" width="0.2032" layer="1"/>
+<wire x1="12.204696875" y1="13.5424" x2="12.204696875" y2="14.467840625" width="0.2032" layer="1"/>
+<wire x1="13.08608125" y1="15.29931875" x2="12.254603125" y2="14.467840625" width="0.2032" layer="1"/>
+<wire x1="12.254603125" y1="14.467840625" x2="12.204696875" y2="14.467840625" width="0.2032" layer="1"/>
+<wire x1="12.45" y1="19.925" x2="12.45" y2="18.82501875" width="0.2032" layer="1"/>
+<wire x1="12.45" y1="18.82501875" x2="12.545059375" y2="18.729959375" width="0.2032" layer="1"/>
+<wire x1="14.45" y1="19.925" x2="14.45" y2="19.36248125" width="0.2032" layer="1"/>
+<wire x1="14.6685" y1="19.14398125" x2="15.03171875" y2="19.14398125" width="0.2032" layer="1"/>
+<wire x1="15.03171875" y1="19.14398125" x2="15.1638" y2="19.2760625" width="0.2032" layer="1"/>
+<wire x1="15.1638" y1="19.2760625" x2="15.1638" y2="19.7231" width="0.2032" layer="1"/>
+<wire x1="14.45" y1="19.36248125" x2="14.6685" y2="19.14398125" width="0.2032" layer="1"/>
+<wire x1="15" y1="21.975" x2="15.0167" y2="21.9583" width="0.2032" layer="1"/>
+<wire x1="15.0167" y1="21.9583" x2="15.9004" y2="21.9583" width="0.2032" layer="1"/>
+<wire x1="12.7" y1="22.225" x2="12.0015" y2="22.225" width="0.2032" layer="1"/>
+<wire x1="12.0015" y1="22.225" x2="11.9888" y2="22.2377" width="0.2032" layer="1"/>
+<wire x1="13.2842" y1="7.8693" x2="13.2842" y2="7.236459375" width="0.2032" layer="1"/>
+<wire x1="13.147040625" y1="7.0993" x2="12.626340625" y2="7.0993" width="0.2032" layer="1"/>
+<wire x1="13.2842" y1="7.236459375" x2="13.147040625" y2="7.0993" width="0.2032" layer="1"/>
+<wire x1="12.0142" y1="7.8439" x2="12.0142" y2="7.20598125" width="0.2032" layer="1"/>
+<wire x1="12.12088125" y1="7.0993" x2="12.626340625" y2="7.0993" width="0.2032" layer="1"/>
+<wire x1="12.0142" y1="7.20598125" x2="12.12088125" y2="7.0993" width="0.2032" layer="1"/>
+<via x="11.216640625" y="6.2103" extent="1-16" drill="0.381"/>
+<via x="10.4241625" y="6.217921875" extent="1-16" drill="0.381"/>
+<wire x1="11.2" y1="5.08" x2="11.216640625" y2="5.096640625" width="0.508" layer="1"/>
+<wire x1="11.216640625" y1="5.096640625" x2="11.216640625" y2="6.2103" width="0.508" layer="1"/>
+<wire x1="11.216640625" y1="6.2103" x2="10.431784375" y2="6.2103" width="0.508" layer="1"/>
+<wire x1="10.431784375" y1="6.2103" x2="10.4241625" y2="6.217921875" width="0.508" layer="1"/>
+<wire x1="5.7531" y1="7.8693" x2="5.742559375" y2="7.858759375" width="0.2032" layer="1"/>
+<wire x1="5.742559375" y1="7.858759375" x2="4.93014375" y2="7.858759375" width="0.2032" layer="1"/>
+<wire x1="5.7531" y1="7.8693" x2="6.6548" y2="7.8693" width="0.2032" layer="1"/>
+<wire x1="6.6548" y1="7.8693" x2="6.6675" y2="7.8566" width="0.2032" layer="1"/>
+<wire x1="6.6675" y1="7.8566" x2="7.8646" y2="7.8566" width="0.2032" layer="1"/>
+<wire x1="7.8646" y1="7.8566" x2="7.9074" y2="7.8994" width="0.2032" layer="1"/>
+<wire x1="9.161778125" y1="8.773159375" x2="9.161778125" y2="7.896859375" width="0.2032" layer="1"/>
+<wire x1="9.161778125" y1="7.896859375" x2="9.161778125" y2="7.0739" width="0.2032" layer="1"/>
+<wire x1="9.161778125" y1="7.0739" x2="9.149078125" y2="7.0612" width="0.2032" layer="1"/>
+<wire x1="7.9074" y1="7.8994" x2="9.1592375" y2="7.8994" width="0.2032" layer="1"/>
+<wire x1="9.1592375" y1="7.8994" x2="9.161778125" y2="7.896859375" width="0.2032" layer="1"/>
+<wire x1="18.530940625" y1="20.28698125" x2="18.536021875" y2="20.2920625" width="0.2032" layer="1"/>
+<wire x1="18.536021875" y1="20.2920625" x2="19.618959375" y2="20.2920625" width="0.2032" layer="1"/>
+<via x="21.534121875" y="25.417778125" extent="1-16" drill="0.381"/>
+<via x="21.59" y="27.9552375" extent="1-16" drill="0.381"/>
+<via x="21.562059375" y="30.5206375" extent="1-16" drill="0.381"/>
+<via x="21.59" y="33.058096875" extent="1-16" drill="0.381"/>
+<via x="21.892259375" y="35.56761875" extent="1-16" drill="0.381"/>
+<via x="21.628096875" y="38.008559375" extent="1-16" drill="0.381"/>
+<via x="22.84221875" y="12.669521875" extent="1-16" drill="0.381"/>
+<via x="22.908259375" y="7.6327" extent="1-16" drill="0.381"/>
+<via x="22.8854" y="5.057140625" extent="1-16" drill="0.381"/>
+<via x="20.3327" y="7.6581" extent="1-16" drill="0.381"/>
+<via x="18.234659375" y="4.968240625" extent="1-16" drill="0.381"/>
+<via x="17.4371" y="10.50798125" extent="1-16" drill="0.381"/>
+<via x="16.609059375" y="7.5692" extent="1-16" drill="0.381"/>
 </signal>
 <signal name="N$7">
 <contactref element="D1" pad="A"/>
 <contactref element="LED" pad="1"/>
-<wire x1="17.145" y1="3.0995" x2="17.145" y2="5.87755625" width="0.2032" layer="1"/>
-<wire x1="17.145" y1="5.87755625" x2="16.639534375" y2="6.383021875" width="0.2032" layer="1"/>
-<wire x1="16.639534375" y1="6.383021875" x2="15.46098125" y2="6.383021875" width="0.2032" layer="1"/>
-<wire x1="15.46098125" y1="6.383021875" x2="15.372078125" y2="6.29411875" width="0.2032" layer="1"/>
+<wire x1="17.145" y1="3.0995" x2="17.145" y2="4.521196875" width="0.2032" layer="1"/>
+<wire x1="17.145" y1="4.521196875" x2="15.372078125" y2="6.29411875" width="0.2032" layer="1"/>
 <via x="15.372078125" y="6.29411875" extent="1-16" drill="0.381"/>
 <wire x1="15.372078125" y1="6.29411875" x2="15.372078125" y2="5.2273125" width="0.2032" layer="16"/>
 <wire x1="15.372078125" y1="5.2273125" x2="15.354303125" y2="5.2095375" width="0.2032" layer="16"/>
@@ -15327,28 +15396,12 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <approved hash="19,16,2e2a46a626ae0eea"/>
 <approved hash="19,16,c43b451b5b155b3f"/>
 <approved hash="19,16,4941c425b657a1cd"/>
-<approved hash="4,1,1ec31ad2bb45bab4"/>
-<approved hash="4,1,ccc664f9ad8e85de"/>
-<approved hash="4,1,264b0b93f767899c"/>
-<approved hash="4,1,84e4fd0983b7f146"/>
 <approved hash="4,1,8053728f8124b04e"/>
 <approved hash="4,1,c862bab7b17da030"/>
-<approved hash="4,2,1ec31ad2bb45bab4"/>
-<approved hash="4,2,ccc664f9ad8e85de"/>
-<approved hash="4,2,264b0b93f767899c"/>
-<approved hash="4,2,84e4fd0983b7f146"/>
 <approved hash="4,2,8053728f8124b04e"/>
 <approved hash="4,2,c862bab7b17da030"/>
-<approved hash="4,15,1ec31ad2bb45bab4"/>
-<approved hash="4,15,ccc664f9ad8e85de"/>
-<approved hash="4,15,264b0b93f767899c"/>
-<approved hash="4,15,84e4fd0983b7f146"/>
 <approved hash="4,15,8053728f8124b04e"/>
 <approved hash="4,15,c862bab7b17da030"/>
-<approved hash="4,16,1ec31ad2bb45bab4"/>
-<approved hash="4,16,ccc664f9ad8e85de"/>
-<approved hash="4,16,264b0b93f767899c"/>
-<approved hash="4,16,84e4fd0983b7f146"/>
 <approved hash="4,16,8053728f8124b04e"/>
 <approved hash="4,16,c862bab7b17da030"/>
 <approved hash="19,1,6b2b643340d74fcf"/>

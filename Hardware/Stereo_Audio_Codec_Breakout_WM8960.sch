@@ -26439,8 +26439,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <plain>
 <text x="348.742" y="11.43" size="2.54" layer="94" font="vector">Pete Lewis</text>
 <text x="7.62" y="271.78" size="3.81" layer="94" font="vector" ratio="10">Audio Codec</text>
-<text x="370.84" y="106.68" size="1.778" layer="97" font="vector">Cut I2C Jumper to 
-remove pullup jumpers 
+<text x="370.84" y="106.68" size="1.778" layer="97" font="vector">Cut I2C Jumpers to 
+remove pullup resistors 
 from the I2C bus.</text>
 <text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v01</text>
 <text x="331.978" y="6.858" size="1.778" layer="94" font="vector">Based on the Top pHAT by Andy England</text>

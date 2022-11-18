@@ -23520,38 +23520,38 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <rectangle x1="-1.25" y1="-1.25" x2="-0.25" y2="-0.25" layer="31"/>
 <rectangle x1="0.25" y1="-1.25" x2="1.25" y2="-0.25" layer="31"/>
 <rectangle x1="0.25" y1="0.25" x2="1.25" y2="1.25" layer="31"/>
-<smd name="1" x="-2.3" y="1.75" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="2" x="-2.3" y="1.25" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="3" x="-2.3" y="0.75" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="4" x="-2.3" y="0.25" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="5" x="-2.3" y="-0.25" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="6" x="-2.3" y="-0.75" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="7" x="-2.3" y="-1.25" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="8" x="-2.3" y="-1.75" dx="0.25" dy="0.4" layer="1" rot="R90" cream="no"/>
-<smd name="9" x="-1.75" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="10" x="-1.25" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="11" x="-0.75" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="12" x="-0.25" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="13" x="0.25" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="14" x="0.75" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="15" x="1.25" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="16" x="1.75" y="-2.3" dx="0.25" dy="0.4" layer="1" rot="R180" cream="no"/>
-<smd name="17" x="2.3" y="-1.75" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="18" x="2.3" y="-1.25" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="19" x="2.3" y="-0.75" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="20" x="2.3" y="-0.25" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="21" x="2.3" y="0.25" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="22" x="2.3" y="0.75" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="23" x="2.3" y="1.25" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="24" x="2.3" y="1.75" dx="0.25" dy="0.4" layer="1" rot="R270" cream="no"/>
-<smd name="25" x="1.75" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
-<smd name="26" x="1.25" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
-<smd name="27" x="0.75" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
-<smd name="28" x="0.25" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
-<smd name="29" x="-0.25" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
-<smd name="30" x="-0.75" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
-<smd name="31" x="-1.25" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
-<smd name="32" x="-1.75" y="2.3" dx="0.25" dy="0.4" layer="1" cream="no"/>
+<smd name="1" x="-2.427" y="1.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="2" x="-2.427" y="1.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="3" x="-2.427" y="0.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="4" x="-2.427" y="0.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="5" x="-2.427" y="-0.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="6" x="-2.427" y="-0.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="7" x="-2.427" y="-1.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="8" x="-2.427" y="-1.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R90" cream="no"/>
+<smd name="9" x="-1.75" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="10" x="-1.25" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="11" x="-0.75" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="12" x="-0.25" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="13" x="0.25" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="14" x="0.75" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="15" x="1.25" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="16" x="1.75" y="-2.427" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R180" cream="no"/>
+<smd name="17" x="2.427" y="-1.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="18" x="2.427" y="-1.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="19" x="2.427" y="-0.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="20" x="2.427" y="-0.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="21" x="2.427" y="0.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="22" x="2.427" y="0.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="23" x="2.427" y="1.25" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="24" x="2.427" y="1.75" dx="0.25" dy="0.654" layer="1" roundness="40" rot="R270" cream="no"/>
+<smd name="25" x="1.75" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
+<smd name="26" x="1.25" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
+<smd name="27" x="0.75" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
+<smd name="28" x="0.25" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
+<smd name="29" x="-0.25" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
+<smd name="30" x="-0.75" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
+<smd name="31" x="-1.25" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
+<smd name="32" x="-1.75" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
 <smd name="PADDLE" x="0" y="0" dx="3.45" dy="3.45" layer="1" cream="no"/>
 </package>
 </packages>
@@ -26442,9 +26442,9 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <text x="370.84" y="106.68" size="1.778" layer="97" font="vector">Cut I2C Jumpers to 
 remove pullup resistors 
 from the I2C bus.</text>
-<text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v01</text>
+<text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <text x="331.978" y="6.858" size="1.778" layer="94" font="vector">Based on the Top pHAT by Andy England</text>
-<text x="76.708" y="169.418" size="1.778" layer="97" font="vector">I2C Address: 0x34 (unshifted)</text>
+<text x="76.708" y="169.418" size="1.778" layer="97" font="vector">I2C Address: 0x1A (unshifted)</text>
 <text x="238.76" y="93.98" size="1.27" layer="97" font="vector">Cut LED Jumper
 to disable power LED</text>
 <wire x1="142.24" y1="199.136" x2="187.96" y2="199.136" width="0.2032" layer="97" style="shortdash"/>

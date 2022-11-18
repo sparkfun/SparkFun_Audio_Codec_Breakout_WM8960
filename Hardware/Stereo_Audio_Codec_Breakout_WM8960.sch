@@ -23484,38 +23484,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-2.5" y1="-2.5" x2="2.5" y2="-2.5" width="0.127" layer="51"/>
 <wire x1="2.5" y1="-2.5" x2="2.5" y2="2.5" width="0.127" layer="51"/>
 <wire x1="2.5" y1="2.5" x2="-2.5" y2="2.5" width="0.127" layer="51"/>
-<rectangle x1="-2.475" y1="-0.325" x2="-2.125" y2="-0.175" layer="31"/>
-<rectangle x1="-2.475" y1="-0.825" x2="-2.125" y2="-0.675" layer="31"/>
-<rectangle x1="-2.475" y1="-1.325" x2="-2.125" y2="-1.175" layer="31"/>
-<rectangle x1="-2.475" y1="-1.825" x2="-2.125" y2="-1.675" layer="31"/>
-<rectangle x1="-2.475" y1="1.675" x2="-2.125" y2="1.825" layer="31"/>
-<rectangle x1="-2.475" y1="1.175" x2="-2.125" y2="1.325" layer="31"/>
-<rectangle x1="-2.475" y1="0.675" x2="-2.125" y2="0.825" layer="31"/>
-<rectangle x1="-2.475" y1="0.175" x2="-2.125" y2="0.325" layer="31"/>
-<rectangle x1="0.075" y1="-2.375" x2="0.425" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="0.575" y1="-2.375" x2="0.925" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="1.075" y1="-2.375" x2="1.425" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="1.575" y1="-2.375" x2="1.925" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-1.925" y1="-2.375" x2="-1.575" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-1.425" y1="-2.375" x2="-1.075" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-0.925" y1="-2.375" x2="-0.575" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-0.425" y1="-2.375" x2="-0.075" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="2.125" y1="0.175" x2="2.475" y2="0.325" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="0.675" x2="2.475" y2="0.825" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="1.175" x2="2.475" y2="1.325" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="1.675" x2="2.475" y2="1.825" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-1.825" x2="2.475" y2="-1.675" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-1.325" x2="2.475" y2="-1.175" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-0.825" x2="2.475" y2="-0.675" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-0.325" x2="2.475" y2="-0.175" layer="31" rot="R180"/>
-<rectangle x1="-0.425" y1="2.225" x2="-0.075" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="-0.925" y1="2.225" x2="-0.575" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="-1.425" y1="2.225" x2="-1.075" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="-1.925" y1="2.225" x2="-1.575" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="1.575" y1="2.225" x2="1.925" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="1.075" y1="2.225" x2="1.425" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="0.575" y1="2.225" x2="0.925" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="0.075" y1="2.225" x2="0.425" y2="2.375" layer="31" rot="R270"/>
 <rectangle x1="-1.25" y1="0.25" x2="-0.25" y2="1.25" layer="31"/>
 <rectangle x1="-1.25" y1="-1.25" x2="-0.25" y2="-0.25" layer="31"/>
 <rectangle x1="0.25" y1="-1.25" x2="1.25" y2="-0.25" layer="31"/>
@@ -23553,6 +23521,38 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <smd name="31" x="-1.25" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
 <smd name="32" x="-1.75" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
 <smd name="PADDLE" x="0" y="0" dx="3.45" dy="3.45" layer="1" cream="no"/>
+<rectangle x1="2.12598125" y1="1.6764" x2="2.72288125" y2="1.826259375" layer="31"/>
+<rectangle x1="2.12598125" y1="1.1764" x2="2.72288125" y2="1.32625625" layer="31"/>
+<rectangle x1="2.12598125" y1="0.6764" x2="2.72288125" y2="0.82625625" layer="31"/>
+<rectangle x1="2.12598125" y1="0.1764" x2="2.72288125" y2="0.32625625" layer="31"/>
+<rectangle x1="2.12598125" y1="-0.3236" x2="2.72288125" y2="-0.17374375" layer="31"/>
+<rectangle x1="2.12598125" y1="-0.8236" x2="2.72288125" y2="-0.67374375" layer="31"/>
+<rectangle x1="2.12598125" y1="-1.3236" x2="2.72288125" y2="-1.17374375" layer="31"/>
+<rectangle x1="2.12598125" y1="-1.8236" x2="2.72288125" y2="-1.67374375" layer="31"/>
+<rectangle x1="-2.049778125" y1="2.349503125" x2="-1.452878125" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-1.549778125" y1="2.349503125" x2="-0.952878125" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-1.049778125" y1="2.349503125" x2="-0.452878125" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-0.549778125" y1="2.349503125" x2="0.047121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-0.049778125" y1="2.349503125" x2="0.547121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="0.450221875" y1="2.349503125" x2="1.047121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="0.950221875" y1="2.349503125" x2="1.547121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="1.450221875" y1="2.349503125" x2="2.047121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-2.72288125" y1="-1.82625625" x2="-2.12598125" y2="-1.6764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="-1.32625625" x2="-2.12598125" y2="-1.1764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="-0.82625625" x2="-2.12598125" y2="-0.6764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="-0.32625625" x2="-2.12598125" y2="-0.1764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="0.17374375" x2="-2.12598125" y2="0.3236" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="0.67374375" x2="-2.12598125" y2="0.8236" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="1.17374375" x2="-2.12598125" y2="1.3236" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="1.67374375" x2="-2.12598125" y2="1.8236" layer="31" rot="R180"/>
+<rectangle x1="1.452878125" y1="-2.499359375" x2="2.049778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="0.952878125" y1="-2.499359375" x2="1.549778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="0.452878125" y1="-2.499359375" x2="1.049778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-0.047121875" y1="-2.499359375" x2="0.549778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-0.547121875" y1="-2.499359375" x2="0.049778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-1.047121875" y1="-2.499359375" x2="-0.450221875" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-1.547121875" y1="-2.499359375" x2="-0.950221875" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-2.047121875" y1="-2.499359375" x2="-1.450221875" y2="-2.349503125" layer="31" rot="R270"/>
 </package>
 </packages>
 <symbols>
@@ -26204,126 +26204,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </deviceset>
 </devicesets>
 </library>
-<library name="SparkFun-Capacitors" urn="urn:adsk.eagle:library:510">
-<description>&lt;h3&gt;SparkFun Capacitors&lt;/h3&gt;
-This library contains capacitors. 
-&lt;br&gt;
-&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
-&lt;br&gt;
-&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;
-&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="0603" urn="urn:adsk.eagle:footprint:37386/1" library_version="1">
-<description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
-<wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="0.7" x2="1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="-0.7" x2="-1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="-1.6" y1="-0.7" x2="-1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="51"/>
-<wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="51"/>
-<smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1"/>
-<smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1"/>
-<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
-<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
-</package>
-<package name="1206" urn="urn:adsk.eagle:footprint:37399/1" library_version="1">
-<description>&lt;p&gt;&lt;b&gt;Generic 3216 (1206) package&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
-<wire x1="-2.4" y1="1.1" x2="2.4" y2="1.1" width="0.0508" layer="39"/>
-<wire x1="2.4" y1="-1.1" x2="-2.4" y2="-1.1" width="0.0508" layer="39"/>
-<wire x1="-2.4" y1="-1.1" x2="-2.4" y2="1.1" width="0.0508" layer="39"/>
-<wire x1="2.4" y1="1.1" x2="2.4" y2="-1.1" width="0.0508" layer="39"/>
-<wire x1="-0.965" y1="0.787" x2="0.965" y2="0.787" width="0.1016" layer="51"/>
-<wire x1="-0.965" y1="-0.787" x2="0.965" y2="-0.787" width="0.1016" layer="51"/>
-<smd name="1" x="-1.4" y="0" dx="1.6" dy="1.8" layer="1"/>
-<smd name="2" x="1.4" y="0" dx="1.6" dy="1.8" layer="1"/>
-<text x="0" y="1.143" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-1.143" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<rectangle x1="-1.7018" y1="-0.8509" x2="-0.9517" y2="0.8491" layer="51"/>
-<rectangle x1="0.9517" y1="-0.8491" x2="1.7018" y2="0.8509" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.4001" x2="0.1999" y2="0.4001" layer="35"/>
-</package>
-</packages>
-<packages3d>
-<package3d name="0603" urn="urn:adsk.eagle:package:37414/1" type="box" library_version="1">
-<description>Generic 1608 (0603) package
-0.2mm courtyard excess rounded to nearest 0.05mm.</description>
-<packageinstances>
-<packageinstance name="0603"/>
-</packageinstances>
-</package3d>
-<package3d name="1206" urn="urn:adsk.eagle:package:37426/1" type="box" library_version="1">
-<description>Generic 3216 (1206) package
-0.2mm courtyard excess rounded to nearest 0.05mm.</description>
-<packageinstances>
-<packageinstance name="1206"/>
-</packageinstances>
-</package3d>
-</packages3d>
-<symbols>
-<symbol name="CAP" urn="urn:adsk.eagle:symbol:37385/1" library_version="1">
-<wire x1="0" y1="2.54" x2="0" y2="2.032" width="0.1524" layer="94"/>
-<wire x1="0" y1="0" x2="0" y2="0.508" width="0.1524" layer="94"/>
-<text x="1.524" y="2.921" size="1.778" layer="95" font="vector">&gt;NAME</text>
-<text x="1.524" y="-2.159" size="1.778" layer="96" font="vector">&gt;VALUE</text>
-<rectangle x1="-2.032" y1="0.508" x2="2.032" y2="1.016" layer="94"/>
-<rectangle x1="-2.032" y1="1.524" x2="2.032" y2="2.032" layer="94"/>
-<pin name="1" x="0" y="5.08" visible="off" length="short" direction="pas" swaplevel="1" rot="R270"/>
-<pin name="2" x="0" y="-2.54" visible="off" length="short" direction="pas" swaplevel="1" rot="R90"/>
-</symbol>
-</symbols>
-<devicesets>
-<deviceset name="4.7UF" urn="urn:adsk.eagle:component:37469/1" prefix="C" library_version="1">
-<description>&lt;h3&gt;4.7µF ceramic capacitors&lt;/h3&gt;
-&lt;p&gt;A capacitor is a passive two-terminal electrical component used to store electrical energy temporarily in an electric field.&lt;/p&gt;</description>
-<gates>
-<gate name="G$1" symbol="CAP" x="0" y="-2.54"/>
-</gates>
-<devices>
-<device name="0603" package="0603">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:37414/1"/>
-</package3dinstances>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CAP-08280"/>
-<attribute name="VALUE" value="4.7uF"/>
-</technology>
-</technologies>
-</device>
-<device name="-1206-16V-(+80/-20%)" package="1206">
-<connects>
-<connect gate="G$1" pin="1" pad="1"/>
-<connect gate="G$1" pin="2" pad="2"/>
-</connects>
-<package3dinstances>
-<package3dinstance package3d_urn="urn:adsk.eagle:package:37426/1"/>
-</package3dinstances>
-<technologies>
-<technology name="">
-<attribute name="PROD_ID" value="CAP-10300" constant="no"/>
-<attribute name="VALUE" value="4.7uF" constant="no"/>
-</technology>
-</technologies>
-</device>
-</devices>
-</deviceset>
-</devicesets>
-</library>
 </libraries>
 <attributes>
 </attributes>
@@ -26394,8 +26274,8 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="U$33" library="SparkFun-PowerSymbols" deviceset="VCCA" device="" value="AVDD"/>
 <part name="SUPPLY14" library="SparkFun-PowerSymbols" deviceset="5V" device="" value="SPKVDD"/>
 <part name="LOGO1" library="SparkFun-Aesthetics" deviceset="SFE_LOGO_NAME_FLAME" device=".1_INCH" value="SFE_LOGO_NAME_FLAME.1_INCH"/>
-<part name="C6" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="4.7UF" device="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="4.7uF"/>
-<part name="C7" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" deviceset="4.7UF" device="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="4.7uF"/>
+<part name="C6" library="SparkFun-Capacitors" deviceset="4.7UF" device="-0603-6.3V-(10%)" value="4.7uF"/>
+<part name="C7" library="SparkFun-Capacitors" deviceset="4.7UF" device="-0603-6.3V-(10%)" value="4.7uF"/>
 <part name="R13" library="SparkFun-Resistors" deviceset="10OHM" device="-0402-1/16W-5%" value="10Ω"/>
 <part name="R14" library="SparkFun-Resistors" deviceset="10OHM" device="-0402-1/16W-5%" value="10Ω"/>
 <part name="R15" library="SparkFun-Resistors" deviceset="10OHM" device="-0402-1/16W-5%" value="10Ω"/>
@@ -27736,11 +27616,6 @@ external SPKVDD at Header pin.</text>
 <note version="6.3" minversion="6.2.2" severity="warning">
 Since Version 6.2.2 text objects can contain more than one line,
 which will not be processed correctly with this version.
-</note>
-<note version="8.2" severity="warning">
-Since Version 8.2, EAGLE supports online libraries. The ids
-of those online libraries will not be understood (or retained)
-with this version.
 </note>
 <note version="8.3" severity="warning">
 Since Version 8.3, EAGLE supports URNs for individual library

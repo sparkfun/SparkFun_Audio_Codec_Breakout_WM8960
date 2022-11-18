@@ -1241,38 +1241,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-2.5" y1="-2.5" x2="2.5" y2="-2.5" width="0.127" layer="51"/>
 <wire x1="2.5" y1="-2.5" x2="2.5" y2="2.5" width="0.127" layer="51"/>
 <wire x1="2.5" y1="2.5" x2="-2.5" y2="2.5" width="0.127" layer="51"/>
-<rectangle x1="-2.475" y1="-0.325" x2="-2.125" y2="-0.175" layer="31"/>
-<rectangle x1="-2.475" y1="-0.825" x2="-2.125" y2="-0.675" layer="31"/>
-<rectangle x1="-2.475" y1="-1.325" x2="-2.125" y2="-1.175" layer="31"/>
-<rectangle x1="-2.475" y1="-1.825" x2="-2.125" y2="-1.675" layer="31"/>
-<rectangle x1="-2.475" y1="1.675" x2="-2.125" y2="1.825" layer="31"/>
-<rectangle x1="-2.475" y1="1.175" x2="-2.125" y2="1.325" layer="31"/>
-<rectangle x1="-2.475" y1="0.675" x2="-2.125" y2="0.825" layer="31"/>
-<rectangle x1="-2.475" y1="0.175" x2="-2.125" y2="0.325" layer="31"/>
-<rectangle x1="0.075" y1="-2.375" x2="0.425" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="0.575" y1="-2.375" x2="0.925" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="1.075" y1="-2.375" x2="1.425" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="1.575" y1="-2.375" x2="1.925" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-1.925" y1="-2.375" x2="-1.575" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-1.425" y1="-2.375" x2="-1.075" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-0.925" y1="-2.375" x2="-0.575" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="-0.425" y1="-2.375" x2="-0.075" y2="-2.225" layer="31" rot="R90"/>
-<rectangle x1="2.125" y1="0.175" x2="2.475" y2="0.325" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="0.675" x2="2.475" y2="0.825" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="1.175" x2="2.475" y2="1.325" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="1.675" x2="2.475" y2="1.825" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-1.825" x2="2.475" y2="-1.675" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-1.325" x2="2.475" y2="-1.175" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-0.825" x2="2.475" y2="-0.675" layer="31" rot="R180"/>
-<rectangle x1="2.125" y1="-0.325" x2="2.475" y2="-0.175" layer="31" rot="R180"/>
-<rectangle x1="-0.425" y1="2.225" x2="-0.075" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="-0.925" y1="2.225" x2="-0.575" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="-1.425" y1="2.225" x2="-1.075" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="-1.925" y1="2.225" x2="-1.575" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="1.575" y1="2.225" x2="1.925" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="1.075" y1="2.225" x2="1.425" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="0.575" y1="2.225" x2="0.925" y2="2.375" layer="31" rot="R270"/>
-<rectangle x1="0.075" y1="2.225" x2="0.425" y2="2.375" layer="31" rot="R270"/>
 <rectangle x1="-1.25" y1="0.25" x2="-0.25" y2="1.25" layer="31"/>
 <rectangle x1="-1.25" y1="-1.25" x2="-0.25" y2="-0.25" layer="31"/>
 <rectangle x1="0.25" y1="-1.25" x2="1.25" y2="-0.25" layer="31"/>
@@ -1310,6 +1278,38 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <smd name="31" x="-1.25" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
 <smd name="32" x="-1.75" y="2.427" dx="0.25" dy="0.654" layer="1" roundness="40" cream="no"/>
 <smd name="PADDLE" x="0" y="0" dx="3.45" dy="3.45" layer="1" cream="no"/>
+<rectangle x1="2.12598125" y1="1.6764" x2="2.72288125" y2="1.826259375" layer="31"/>
+<rectangle x1="2.12598125" y1="1.1764" x2="2.72288125" y2="1.32625625" layer="31"/>
+<rectangle x1="2.12598125" y1="0.6764" x2="2.72288125" y2="0.82625625" layer="31"/>
+<rectangle x1="2.12598125" y1="0.1764" x2="2.72288125" y2="0.32625625" layer="31"/>
+<rectangle x1="2.12598125" y1="-0.3236" x2="2.72288125" y2="-0.17374375" layer="31"/>
+<rectangle x1="2.12598125" y1="-0.8236" x2="2.72288125" y2="-0.67374375" layer="31"/>
+<rectangle x1="2.12598125" y1="-1.3236" x2="2.72288125" y2="-1.17374375" layer="31"/>
+<rectangle x1="2.12598125" y1="-1.8236" x2="2.72288125" y2="-1.67374375" layer="31"/>
+<rectangle x1="-2.049778125" y1="2.349503125" x2="-1.452878125" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-1.549778125" y1="2.349503125" x2="-0.952878125" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-1.049778125" y1="2.349503125" x2="-0.452878125" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-0.549778125" y1="2.349503125" x2="0.047121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-0.049778125" y1="2.349503125" x2="0.547121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="0.450221875" y1="2.349503125" x2="1.047121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="0.950221875" y1="2.349503125" x2="1.547121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="1.450221875" y1="2.349503125" x2="2.047121875" y2="2.499359375" layer="31" rot="R90"/>
+<rectangle x1="-2.72288125" y1="-1.82625625" x2="-2.12598125" y2="-1.6764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="-1.32625625" x2="-2.12598125" y2="-1.1764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="-0.82625625" x2="-2.12598125" y2="-0.6764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="-0.32625625" x2="-2.12598125" y2="-0.1764" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="0.17374375" x2="-2.12598125" y2="0.3236" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="0.67374375" x2="-2.12598125" y2="0.8236" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="1.17374375" x2="-2.12598125" y2="1.3236" layer="31" rot="R180"/>
+<rectangle x1="-2.72288125" y1="1.67374375" x2="-2.12598125" y2="1.8236" layer="31" rot="R180"/>
+<rectangle x1="1.452878125" y1="-2.499359375" x2="2.049778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="0.952878125" y1="-2.499359375" x2="1.549778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="0.452878125" y1="-2.499359375" x2="1.049778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-0.047121875" y1="-2.499359375" x2="0.549778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-0.547121875" y1="-2.499359375" x2="0.049778125" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-1.047121875" y1="-2.499359375" x2="-0.450221875" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-1.547121875" y1="-2.499359375" x2="-0.950221875" y2="-2.349503125" layer="31" rot="R270"/>
+<rectangle x1="-2.047121875" y1="-2.499359375" x2="-1.450221875" y2="-2.349503125" layer="31" rot="R270"/>
 </package>
 </packages>
 </library>
@@ -1360,6 +1360,23 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <wire x1="-0.9262" y1="0.4262" x2="-0.9262" y2="-0.4262" width="0.05" layer="39"/>
 <wire x1="-0.9262" y1="-0.4262" x2="0.9262" y2="-0.4262" width="0.05" layer="39"/>
 <wire x1="0.9262" y1="-0.4262" x2="0.9262" y2="0.4262" width="0.05" layer="39"/>
+</package>
+<package name="0603">
+<description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
+<wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
+<wire x1="1.6" y1="0.7" x2="1.6" y2="-0.7" width="0.0508" layer="39"/>
+<wire x1="1.6" y1="-0.7" x2="-1.6" y2="-0.7" width="0.0508" layer="39"/>
+<wire x1="-1.6" y1="-0.7" x2="-1.6" y2="0.7" width="0.0508" layer="39"/>
+<wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="51"/>
+<wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="51"/>
+<smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1"/>
+<smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1"/>
+<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
+<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
+<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
+<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
+<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
 </package>
 </packages>
 </library>
@@ -14340,49 +14357,6 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </package>
 </packages>
 </library>
-<library name="SparkFun-Capacitors" urn="urn:adsk.eagle:library:510">
-<description>&lt;h3&gt;SparkFun Capacitors&lt;/h3&gt;
-This library contains capacitors. 
-&lt;br&gt;
-&lt;br&gt;
-We've spent an enormous amount of time creating and checking these footprints and parts, but it is &lt;b&gt; the end user's responsibility&lt;/b&gt; to ensure correctness and suitablity for a given componet or application. 
-&lt;br&gt;
-&lt;br&gt;If you enjoy using this library, please buy one of our products at &lt;a href=" www.sparkfun.com"&gt;SparkFun.com&lt;/a&gt;.
-&lt;br&gt;
-&lt;br&gt;
-&lt;b&gt;Licensing:&lt;/b&gt; Creative Commons ShareAlike 4.0 International - https://creativecommons.org/licenses/by-sa/4.0/ 
-&lt;br&gt;
-&lt;br&gt;
-You are welcome to use this library for commercial purposes. For attribution, we ask that when you begin to sell your device using our footprint, you email us with a link to the product being sold. We want bragging rights that we helped (in a very small part) to create your 8th world wonder. We would like the opportunity to feature your device on our homepage.</description>
-<packages>
-<package name="0603" urn="urn:adsk.eagle:footprint:37386/1" library_version="1">
-<description>&lt;p&gt;&lt;b&gt;Generic 1608 (0603) package&lt;/b&gt;&lt;/p&gt;
-&lt;p&gt;0.2mm courtyard excess rounded to nearest 0.05mm.&lt;/p&gt;</description>
-<wire x1="-1.6" y1="0.7" x2="1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="0.7" x2="1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="1.6" y1="-0.7" x2="-1.6" y2="-0.7" width="0.0508" layer="39"/>
-<wire x1="-1.6" y1="-0.7" x2="-1.6" y2="0.7" width="0.0508" layer="39"/>
-<wire x1="-0.356" y1="0.432" x2="0.356" y2="0.432" width="0.1016" layer="51"/>
-<wire x1="-0.356" y1="-0.419" x2="0.356" y2="-0.419" width="0.1016" layer="51"/>
-<smd name="1" x="-0.85" y="0" dx="1.1" dy="1" layer="1"/>
-<smd name="2" x="0.85" y="0" dx="1.1" dy="1" layer="1"/>
-<text x="0" y="0.762" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center">&gt;NAME</text>
-<text x="0" y="-0.762" size="0.6096" layer="27" font="vector" ratio="20" align="top-center">&gt;VALUE</text>
-<rectangle x1="-0.8382" y1="-0.4699" x2="-0.3381" y2="0.4801" layer="51"/>
-<rectangle x1="0.3302" y1="-0.4699" x2="0.8303" y2="0.4801" layer="51"/>
-<rectangle x1="-0.1999" y1="-0.3" x2="0.1999" y2="0.3" layer="35"/>
-</package>
-</packages>
-<packages3d>
-<package3d name="0603" urn="urn:adsk.eagle:package:37414/1" type="box" library_version="1">
-<description>Generic 1608 (0603) package
-0.2mm courtyard excess rounded to nearest 0.05mm.</description>
-<packageinstances>
-<packageinstance name="0603"/>
-</packageinstances>
-</package3d>
-</packages3d>
-</library>
 </libraries>
 <attributes>
 </attributes>
@@ -14830,12 +14804,12 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <element name="LOGO1" library="SparkFun-Aesthetics" package="SFE_LOGO_NAME_FLAME_.1" value="SFE_LOGO_NAME_FLAME.1_INCH" x="12.4587" y="19.3675" smashed="yes" rot="MR0"/>
 <element name="U$3" library="output" package="CODEC8960896057" value="" x="11.559540625" y="37.564059375" smashed="yes"/>
 <element name="U$37" library="output" package="#OUT3#0" value="" x="20.977859375" y="16.482059375" smashed="yes" rot="MR0"/>
-<element name="C6" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="4.7uF" x="13.08608125" y="16.14931875" smashed="yes" rot="R270">
+<element name="C6" library="SparkFun-Capacitors" package="0603" value="4.7uF" x="13.08608125" y="16.14931875" smashed="yes" rot="R270">
 <attribute name="NAME" x="13.84808125" y="16.14931875" size="0.6096" layer="25" font="vector" ratio="20" rot="R270" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-08280" x="13.08608125" y="16.14931875" size="1.778" layer="27" font="vector" ratio="15" rot="R270" display="off"/>
 <attribute name="VALUE" x="12.32408125" y="16.14931875" size="0.6096" layer="27" font="vector" ratio="20" rot="R270" align="top-center"/>
 </element>
-<element name="C7" library="SparkFun-Capacitors" library_urn="urn:adsk.eagle:library:510" package="0603" package3d_urn="urn:adsk.eagle:package:37414/1" value="4.7uF" x="17.680940625" y="20.28698125" smashed="yes">
+<element name="C7" library="SparkFun-Capacitors" package="0603" value="4.7uF" x="17.680940625" y="20.28698125" smashed="yes">
 <attribute name="NAME" x="17.680940625" y="21.04898125" size="0.6096" layer="25" font="vector" ratio="20" align="bottom-center"/>
 <attribute name="PROD_ID" value="CAP-08280" x="17.680940625" y="20.28698125" size="1.778" layer="27" font="vector" ratio="15" display="off"/>
 <attribute name="VALUE" x="17.680940625" y="19.52498125" size="0.6096" layer="27" font="vector" ratio="20" align="top-center"/>

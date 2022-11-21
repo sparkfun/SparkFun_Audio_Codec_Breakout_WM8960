@@ -14896,7 +14896,6 @@ These are the minimums &lt;a href=&quot;https://jlcpcb.com/capabilities/Capabili
 <via x="12.1666" y="6.223" extent="1-16" drill="0.381"/>
 <wire x1="12.1666" y1="6.223" x2="12.2" y2="6.1896" width="0.508" layer="1"/>
 <wire x1="12.2" y1="6.1896" x2="12.2" y2="5.08" width="0.508" layer="1"/>
-<wire x1="12.1412" y1="6.1976" x2="12.1666" y2="6.223" width="0.508" layer="1"/>
 <wire x1="10.949940625" y1="4.231640625" x2="12.181840625" y2="4.231640625" width="0.2032" layer="16"/>
 <wire x1="12.181840625" y1="4.231640625" x2="12.7" y2="4.7498" width="0.2032" layer="16"/>
 <wire x1="12.7" y1="4.7498" x2="12.7" y2="5.207" width="0.2032" layer="16"/>

@@ -26324,7 +26324,7 @@ remove pullup resistors
 from the I2C bus.</text>
 <text x="421.64" y="7.62" size="2.54" layer="94" font="vector">v10</text>
 <text x="331.978" y="6.858" size="1.778" layer="94" font="vector">Based on the Top pHAT by Andy England</text>
-<text x="76.708" y="169.418" size="1.778" layer="97" font="vector">I2C Address: 0x1A (unshifted)</text>
+<text x="70.612" y="159.258" size="2.54" layer="97" font="vector" ratio="10">I2C Address: 0x1A (unshifted)</text>
 <text x="238.76" y="93.98" size="1.27" layer="97" font="vector">Cut LED Jumper
 to disable power LED</text>
 <wire x1="142.24" y1="199.136" x2="187.96" y2="199.136" width="0.2032" layer="97" style="shortdash"/>

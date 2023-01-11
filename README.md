@@ -1,7 +1,7 @@
 Stereo Audio Codec Breakout - WM8960
 ========================================
 
-[![SparkFun Audio Codec Breakout - WM8960](URL for picture of part)](https://www.sparkfun.com/products/21250)
+[![SparkFun Audio Codec Breakout - WM8960](https://cdn.sparkfun.com/assets/parts/2/1/0/1/0/21250-_BOB_SparkFun_Audio_Codec_Breakout-_01.jpg)](https://www.sparkfun.com/products/21250)
 
 [*SparkFun Audio Codec Breakout - WM8960 (BOB-21250)*](https://www.sparkfun.com/products/21250)
 
@@ -17,7 +17,7 @@ Documentation
 --------------
 
 * **[Library](https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library)** - Arduino library for the Stereo Audio Codec Breakout - WM8960.
-* **[Hookup Guide](Learn.SparkFun URL)** - Basic hookup guide for the Stereo Audio Codec Breakout - WM8960.
+* **[Hookup Guide](https://learn.sparkfun.com/tutorials/2761)** - Basic hookup guide for the Stereo Audio Codec Breakout - WM8960.
 
 Product Versions
 ----------------

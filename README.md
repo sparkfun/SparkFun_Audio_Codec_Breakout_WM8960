@@ -22,7 +22,7 @@ Documentation
 Product Versions
 ----------------
 
-* [BOB-21250](https://www.sparkfun.com/products/21250)- Initial Release
+* [BOB-21250](https://www.sparkfun.com/products/21250) - Initial Release
 
 Version History
 ---------------

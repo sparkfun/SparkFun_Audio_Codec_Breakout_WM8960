@@ -27,6 +27,7 @@ Documentation
 --------------
 
 * **[Library](https://github.com/sparkfun/SparkFun_WM8960_Arduino_Library)** - Arduino library for the Stereo Audio Codec Breakout - WM8960.
+* **[SparkFun Fritzing Part](https://github.com/sparkfun/Fritzing_Parts/blob/main/products/21250_sfe_stereo_audio_codec_breakout_WM8960.fzpz)** - Fritzing diagrams for SparkFun products.
 * **[Hookup Guide](https://learn.sparkfun.com/tutorials/2761)** - Basic hookup guide for the Stereo Audio Codec Breakout - WM8960.
 
 Product Versions

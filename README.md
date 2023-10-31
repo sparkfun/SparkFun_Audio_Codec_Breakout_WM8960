@@ -1,9 +1,16 @@
 Stereo Audio Codec Breakout - WM8960
 ========================================
 
-[![SparkFun Audio Codec Breakout - WM8960](https://cdn.sparkfun.com/assets/parts/2/1/0/1/0/21250-_BOB_SparkFun_Audio_Codec_Breakout-_01.jpg)](https://www.sparkfun.com/products/21250)
-
-[*SparkFun Audio Codec Breakout - WM8960 (BOB-21250)*](https://www.sparkfun.com/products/21250)
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://www.sparkfun.com/products/21250"><img src="https://cdn.sparkfun.com/assets/parts/2/1/0/1/0/21250-_BOB_SparkFun_Audio_Codec_Breakout-_01.jpg" alt="SparkFun Audio Codec Breakout - WM8960"></a></td>
+   <td><a href="https://www.sparkfun.com/products/21772"><img src="https://cdn.sparkfun.com//assets/parts/2/1/5/7/8/21772-01.jpg" alt="SparkFun Audio Codec Breakout - WM8960 with Headers (Qwiic)"></a></td>
+  </tr>
+  <tr align="center">
+   <td><i>SparkFun Audio Codec Breakout - WM8960<br />[<a href="https://www.sparkfun.com/products/21250">BOB-21250</a>]</i></td>
+   <td><i>SparkFun Audio Codec Breakout - WM8960 with Headers (Qwiic)<br />[<a href="https://www.sparkfun.com/products/21772">BOB-21772</a>]</i></td>
+  </tr>
+</table>
 
 The SparkFun WM8960 Audio Codec Breakout is a low-power, high-quality stereo codec with 1W Stereo Class D speaker drivers and headphone drivers. The WM8960 acts as a stereo audio ADC and DAC and communicates using I<sup>2</sup>S, a standard audio data protocol (not to be confused with I<sup>2</sup>C). This audio codec is chock full of features some of which include advanced on-chip digital signal processing for automatic level control (ALC) for the line or microphone input, programmable gain amplifier (PGA), pop and click suppression, and its ability to configure I<sup>2</sup>S settings and analog audio path through software via I<sup>2</sup>C. 
 
@@ -33,7 +40,8 @@ Documentation
 Product Versions
 ----------------
 
-* [BOB-21250](https://www.sparkfun.com/products/21250) - Initial Release
+* [BOB-21772](https://www.sparkfun.com/products/21772) - v1.0, with headers
+* [BOB-21250](https://www.sparkfun.com/products/21250) - Initial Release, v1.0 
 
 Version History
 ---------------
